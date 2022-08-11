@@ -1,4 +1,4 @@
-// const { response } = require("express");
+const { response } = require("express");
 
 const $backBtn = document.querySelector("#back-btn");
 const $pizzaName = document.querySelector("#pizza-name");
@@ -147,7 +147,7 @@ function handleNewCommentSubmit(event) {
     })
     .then((commentResponse) => {
       console.log(commentResponse);
-      location.reload();
+      // location.reload();
     })
     .catch((err) => {
       console.log(err);
