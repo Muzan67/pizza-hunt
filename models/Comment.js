@@ -10,9 +10,13 @@ const ReplySchema = new Schema(
     },
     replyBody: {
       type: String,
+      required: true,
+      // trim: true, (module 5 says to add trim statement here)
     },
     writtenBy: {
       type: String,
+      required: true,
+      trim: true, // (in lesson files comparison it has trim here)
     },
     createdAt: {
       type: Date,
@@ -31,9 +35,11 @@ const CommentSchema = new Schema(
   {
     writtenBy: {
       type: String,
+      required: true,
     },
     commentBody: {
       type: String,
+      required: true,
     },
     createdAt: {
       type: Date,
