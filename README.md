@@ -12,11 +12,11 @@ https://github.com/Muzan67/pizza-hunt
 
 # Table of Contents
 
-    Pizza-Hunt
-    User Story
-    Installation
-    Usage
-    Technology Used
+• Pizza-Hunt
+• User Story
+• Installation
+• Usage
+• Technology Used
 
 # User Story
 
