@@ -12,11 +12,11 @@ https://github.com/Muzan67/pizza-hunt
 
 # Table of Contents
 
-• Pizza-Hunt
-• User Story
-• Installation
-• Usage
-• Technology Used
+- Pizza-Hunt
+- User Story
+- Installation
+- Usage
+- Technology Used
 
 # User Story
 
@@ -48,16 +48,16 @@ Install express and mongoose by entering npm i express and npm i mongoose into t
 
 # Technology Used
 
-• Node
-• Express
-• HTML 5
-• CSS
-• Javascript
-• Handlebars.js
-• Mongoose
-• MongoDB
-• Mongoose
-• Heroku
+- Node
+- Express
+- HTML 5
+- CSS
+- Javascript
+- Handlebars.js
+- Mongoose
+- MongoDB
+- Mongoose
+- Heroku
 
 # Screenshot of Pizza-Hunt App
 
