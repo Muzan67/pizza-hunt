@@ -1,4 +1,4 @@
-const { response } = require("express");
+// const { response } = require("express");
 
 const $backBtn = document.querySelector("#back-btn");
 const $pizzaName = document.querySelector("#pizza-name");
