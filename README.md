@@ -1,22 +1,27 @@
-# Pizza-Hunt
-
-A social media recipe app where users can post their creative spins on pizza, add comments to recipes, and create threads within comments. To do this, you’ll add back-end functionality to an existing front end.
-
-# Pizza-Hunt - Deployed Heroku App
+# Deployed Heroku App - Pizza-Hunt
 
 https://arcane-refuge-95394.herokuapp.com/
 
-# Pizza-Hunt - Github Repository
+# Github Repository - Pizza-Hunt
 
 https://github.com/Muzan67/pizza-hunt
 
+# Pizza-Hunt
+
+## Dsecription
+
+A social media recipe app where users can post their creative spins on pizza, add comments to recipes, and create threads within comments. To do this, you’ll add back-end functionality to an existing front end.
+
 # Table of Contents
 
-- Pizza-Hunt
+- Deployed Heroku App
+- Github Repository
+- Description
 - User Story
 - Installation
 - Usage
 - Technology Used
+- Screenshot
 
 # User Story
 
@@ -56,7 +61,6 @@ Install express and mongoose by entering npm i express and npm i mongoose into t
 - Handlebars.js
 - Mongoose
 - MongoDB
-- Mongoose
 - Heroku
 
 # Screenshot of Pizza-Hunt App
